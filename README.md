@@ -8,6 +8,6 @@ Southern Signals, a weekly newsletter on startup funding in Southern Europe.
 
 | Project | Question it answers | Stack |
 |---|---|---|
-| VC portfolio simulator | How many investments does a €120M fund need to return 3x net? | Python, NumPy, Monte Carlo |
+| Power Law Lab | How many investments does a €120M fund need to return 3x net? | Python, NumPy, Monte Carlo |
 
 **Elsewhere:** LinkedIn · Southern Signals
