@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Francesco
 
-<!--
-**framosco0/framosco0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance MSc student at Nova SBE (Lisbon). I build models that answer
+real questions in venture capital, credit and valuation, and I write
+Southern Signals, a weekly newsletter on startup funding in Southern Europe.
 
-Here are some ideas to get you started:
+**Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Question it answers | Stack |
+|---|---|---|
+| VC portfolio simulator | How many investments does a €120M fund need to return 3x net? | Python, NumPy, Monte Carlo |
+
+**Elsewhere:** LinkedIn · Southern Signals
